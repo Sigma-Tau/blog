@@ -1,7 +1,7 @@
 # Sigma-Tau Blog
 
-[![example workflow](https://github.com/fralfaro/blog/actions/workflows/documentation.yml/badge.svg)](https://github.com/fralfaro/blog/actions)
-[![documentation](https://img.shields.io/badge/🌐-Blog-blue)](https://fralfaro.github.io/blog/)
+[![example workflow](https://github.com/sigma-tau/blog/actions/workflows/documentation.yml/badge.svg)](https://github.com/sigma-tau/blog/actions)
+[![documentation](https://img.shields.io/badge/🌐-Blog-blue)](https://sigma-tau.github.io/blog/)
 
 <img src="images/sigmatau.png" alt="" align="center" width="400"/>
 
