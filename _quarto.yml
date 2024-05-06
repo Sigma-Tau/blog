@@ -3,36 +3,31 @@ project:
   output-dir: docs
 
 website:
-  title: "Personal Blog"
+  title: "Sigma-Tau Blog"
   site-url: "fralfaro.github.io/blog/"
-  favicon: 'images/logo_fam2.png'
-  image: 'images/doberman.png'
+  favicon: 'images/sigma.png'
+  image: 'images/sigma.png'
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/), by Francisco Alfaro. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
     right:
       - icon: github
-        href: https://github.com/fralfaro
+        href: https://github.com/Sigma-Tau
       - icon: linkedin
-        href: https://www.linkedin.com/in/faam/
+        href: https://www.linkedin.com/company/sigma-tau-chile
       - icon: globe
-        href: https://fralfaro.github.io/portfolio/
-      - icon: pencil
-        href: https://fralfaro.github.io/blog/
+        href: https://fralfaro.github.io/agency-website/
 
     
   navbar:
-    logo: /images/doberman.png
+    logo: /images/sigma.png
     right:
-      - href: about.qmd
-        text: About Me
       - icon: github
-        href: https://github.com/fralfaro
+        href: https://github.com/Sigma-Tau
       - icon: linkedin
-        href: https://www.linkedin.com/in/faam/
+        href: https://www.linkedin.com/company/sigma-tau-chile
       - icon: globe
-        href: https://fralfaro.github.io/portfolio/
-      - icon: pencil
-        href: https://fralfaro.github.io/blog/
+        href: https://fralfaro.github.io/agency-website/
+
 
 lang: es
 
@@ -40,8 +35,8 @@ format:
   html:
     smooth-scroll: true
     theme:
-      light: [flatly, stylesheets/custom2.scss]
-      dark: [flatly, stylesheets/custom2.scss, stylesheets/theme-dark.scss]
+      light: [Lumen, stylesheets/custom2.scss]
+      dark: [Lumen, stylesheets/custom2.scss, stylesheets/theme-dark.scss]
     link-external-newwindow: true
     citations-hover: true
     footnotes-hover: true
